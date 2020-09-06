@@ -20,13 +20,6 @@ This command will run your server on your localhost. You can access then on your
 http://localhost:3000/
 ```
 
-To run test suit, you need to run -
-
-```bash
-npm test
-```
-This will test entire application including components, ducks, thunks, utils functions used throughout using _Jest and Enzyme_ library. Snapshots already available under _test_ folder.
-
 
 ## Contributing
 1. Fork it ( https://github.com/SaurabhGaur01/React-basic-form/fork )
